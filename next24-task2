@@ -1,0 +1,205 @@
+When Apple cofounder Steve Jobs famously said “People don’t know what they want until you show it to them” in defense of the then-unproven iPhone, he wasn’t talking about recommendation engines — but he may as well have been.
+
+Before ecommerce became a predominant way people shop, customers would walk into a store, tell the clerk what they were looking for and receive recommendations based on their needs.
+
+As they approach the checkout counter, the clerk might casually mention a complementary accessory that goes perfectly with the selected item (cross-selling) or offer a slightly more high-end version of the item (upselling) with better features.
+
+While online retailers can’t offer that same high-touch experience, a good ecommerce recommendation engine comes close.
+
+Recommendation engines serve contextually relevant product suggestions based on the consumer’s past purchases and viewing behavior. Research from McKinsey found that companies that excel at personalization generate 40% more revenue from those activities than “average players.”
+
+Ecommerce personalization has become so mainstream that 71% of consumers expect personalized experiences when interacting with a brand and 76% get frustrated when they don’t find it.
+
+Read on to learn more about how recommendation engines work and how you can use them to boost sales and revenue to your ecommerce business.
+
+Ecommerce Recommendation Engine Functionalities to Uplevel Your Online Store
+A recommendation engine improves product discoverability while providing customers with a frictionless experience. They save customers the trouble of navigating a vast product catalog and using complex search filters to find what they need.
+
+At the same time, online stores benefit from increased sales and customer loyalty.
+
+Personalize the shopping experience.
+Retailers use personalization tools to make it easy for customers to:
+
+Navigate products in-store.
+
+Receive relevant product recommendations.
+
+See messaging tailored to their needs.
+
+Recommendation engines analyze a user’s browsing habits and purchase history to curate product suggestions aligned with user intent. Product listings are also tailored to the user’s location, with pricing displayed in the customer’s local currency plus applicable shipping fees. Machine learning algorithms learn from behavioral data to surface increasingly relevant suggestions over time.
+
+Personalization pays off, particularly when it comes to mobile purchases. Sixty-seven percent of smartphone users say they’re more likely to buy from companies whose mobile sites or apps customize information to their location.
+
+Ecommerce personalization can reduce friction in the user experience and help customers discover products they need while encouraging them to browse other product categories.
+
+Improve upselling and cross-selling.
+Product recommendations provide a natural opportunity to upsell and cross-sell the customer, thereby increasing average order value (AOV). Upselling involves recommending a higher-priced or higher-quality version of a product a customer is viewing or has previously purchased.
+
+For example, if they’re eyeing an entry-level laptop, your recommendation engine could suggest products with more computing power. Recommendation engines boost product discoverability by showing customers options they might not have otherwise considered.
+
+Cross-selling means encouraging customers to purchase complementary or related products, such as a Bluetooth headset to go with their chosen laptop. This technique provides the customer with the convenience of finding everything they need without additional effort.
+
+According to Salesforce, personalized product recommendations increase AOV by 10%.
+
+Learn from recommendation engine data.
+Recommendation engine data is a rich source of first-party data for retailers. This proprietary data is the most valuable because, unlike third-party data, which is compiled and interpreted by an external source, first-party data comes directly from the customer.
+
+Analyzing data from recommendation engines enables retailers to do the following:
+
+Identify the most popular products: Sellers can identify which products are most viewed, most purchased or frequently purchased together. This helps retailers make data-informed decisions on which products to stock and promote and create more effective product bundles and marketing campaigns.
+
+Improve upselling and cross-selling: By analyzing which products are frequently sold together, retailers can create more cohesive marketing campaigns by bundling items in ways that appeal to customers. Suppose the data reveals that customers typically purchase a smart speaker and smart doorbell together. In that case, you could create a marketing campaign that promotes a bundle of smart home products for new homeowners.
+
+Understand customer preferences and behavior: Understanding which upselling and cross-selling offers customers respond to provides more insight into their purchase behavior and lets you make better-informed decisions about which products to restock. For example, if customers don’t respond to upselling product suggestions, you might consider discontinuing the higher-end product.
+
+Analyze customer feedback and reviews: Many ecommerce recommendation engines allow customers to rate the product recommendations they receive. For example, asking customers “Was this relevant to you?” and letting them select a thumbs up or thumbs down provides valuable feedback. This helps retailers improve future recommendations.
+
+Improve personalization in other ways: The data from recommendation engines can help you deepen personalization using other tools, such as popovers, coupons, email campaigns and loyalty rewards programs.
+
+How to Increase Ecommerce Sales
+Explore our collection of free resources designed to help you scale smarter and accelerate your online growth from $1 million to $100 million.
+
+ACCESS NOW
+
+Successful Recommendation Engines Examples to Follow
+Some of the most iconic brands have built their name on their ability to understand their customers and deliver the most relevant product offerings to them.
+
+For example, when’s the last time you heard someone describe their startup as “the Netflix of…”? This expression refers to Netflix’s uncanny ability to infer user preferences and provide a personalized experience at scale.
+
+Here are some other brands known for their powerful recommendation engines:
+
+Amazon.
+Often lauded as best-in-class, Amazon’s recommendation engine analyzes many factors, including past purchases, browsing history, ratings and reviews and interactions with other Amazon services (such as Amazon Prime). A whopping 35% of purchases made on Amazon result from recommendations.
+
+On Amazon’s homepage, users see a range of personalized options, including “Keep shopping for” (recently viewed items), “Deals based on your recent history” (products similar to those recently viewed) and “Buy again” (past purchases).
+
+Personalized recommendations also appear on product pages, where customers will see other items that are frequently bought together and again at checkout.
+
+The recommendation engine also uses customer feedback, such as ratings and reviews, to continuously improve and evolve its algorithms.
+
+Netflix.
+Netflix’s library is so vast — consisting of over 17,000 titles — that its product recommendation engine is both a convenience and a necessity.
+
+The streaming giant revealed that recommendations inspire 75% of what people watch on Netflix. Netflix’s algorithm suggests content based on the customer’s viewing history, ratings of TV shows and movies and interactions with other Netflix features (such as the "Continue Watching" list and the "Recently Watched" row).
+
+Netflix also groups similar users into cohorts according to their behavior and location. For example, a user might see recommendations for titles that are highly rated in their region. The streaming platform also considers factors such as the time of day, the device you’re using and how long you watch.
+
+Best Buy.
+After fierce competition from Amazon nearly pushed Best Buy out of business, the electronics chain launched a recommendation engine in 2015 that helped grow its ecommerce sales. Best Buy used its store footprint to build a recommendation engine that leverages on- and offline personalization.
+
+When customers enter a store and open the Best Buy app, they can see product recommendations and promotions applicable to that store and identify which items are available in-store for pickup. The Best Buy website also uses geolocation to help customers locate nearby stores where they can see a product in-person.
+
+The recommendation engine analyzes factors including a customer's past purchases, browsing history, and interactions with other Best Buy features (such as the "My Best Buy" program and the "Wish List" feature).
+
+Types of Ecommerce Recommendation Engines
+There are three types of recommendation engines: each one uses a different type of filtering method to generate recommendations.
+
+Collaborative filtering.
+Collaborative filtering is a method that groups users into cohorts based on behaviors, shared interests or location. The algorithm infers individual preferences by identifying similarities between users.
+
+For example, if certain users purchase a particular product, the collaborative filtering recommendation engine might recommend that product to other users who have similar purchasing habits or interests.
+
+This helps overcome the “cold start” problem inherent in other types of recommendation engines where the algorithm needs a certain quantity of data inputs before it can generate relevant suggestions.
+
+Content-based filtering.
+Content-based filtering is a technique of recommending products to users based on the product’s characteristics, rather than relying on data from users.
+
+For example, if a website visitor previously browsed silicon spatulas, the recommendation system would surface listings of other silicon-based kitchenware or spatulas made from other types of materials.
+
+Other factors such as color, material, product category and product features also influence the listings a user sees. While content-based filtering is a great way to recommend similar products based on user intent, they’re less effective at helping users discover new products.
+
+Hybrid filtering.
+Hybrid filtering uses a combination of collaborative and content-based filtering to make recommendations. In other words, it combines behavioral data from multiple users together with the characteristics and features of individual products to generate accurate recommendations for individual users.
+
+Hybrid recommendation systems combine the best of both worlds: users will see product recommendations based on their search intent and receive recommendations for new product categories to consider.
+
+While this type of recommendation is ideal, they’re typically used by enterprise-level businesses because they are more difficult to implement and maintain than other types of recommendation engines.
+
+Specific Ecommerce Recommendation Engine Use Cases
+Product recommendations can be done in a variety of ways, depending on how much user data you have. For example, first-time site visitors will receive more generic recommendations of popular items or new products, whereas returning users will see recommendations based on their past interactions with your ecommerce store.
+
+Recently viewed.
+Displaying recently viewed products on your homepage enables returning site visitors to resume their search seamlessly. Most retailers also display a ‘Recently viewed’ widget on every product page so users can easily compare items.
+
+Alternatively, you can generate recommendations inspired by recent views. For example, the recommendation engine can show products with similar features to the customer’s recent views. This is done by tracking the pages customers visit and the products they view.
+
+Viewed this, bought that.
+This type of “Customers who viewed this…bought that…” recommendation is made by analyzing what types of products are frequently viewed together. Complementary products can be recommended individually or as a bundle (eg: three or four products at a time).
+
+Amazon does this by showing bundles of products frequently viewed in succession and enabling users to add the entire bundle to their shopping cart in one click.
+
+Bought this, bought that.
+Similar to “Viewed this, bought that,” this type of recommendation surfaces products that are routinely purchased in tandem (eg: a cat litter box and a bag of cat litter). This provides a more convenient shipping experience for the user while increasing average order value for the retailer.
+
+Popular products.
+Recommending products to first-time site visitors is tricky because you need behavioral data. One alternative is to show your most popular products based on purchases, views, website interactions and ratings.
+
+For example, you might show your most highly rated or viewed products. These recommendations help first-time site visitors understand what products you offer while providing social proof (evidence that these products are approved by others, which makes them appear more desirable).
+
+You can also show popular products to returning visitors to inspire future purchases. Recommendations should still take into account a user’s location, browsing history and other information.
+
+New products.
+You can recommend new arrivals to customers based on their recent product views or purchases. Displaying new products broadens the customer’s product consideration and increases average order value.
+
+How to Choose an Ecommerce Recommendation Software
+Building a recommendation engine is not a one-and-done process; you must continuously collect, clean and analyze the data, fix bugs and issues and optimize the algorithm.
+
+Choosing the right recommendation engine software depends on your business needs, how much customization you’re looking for, and what level of maintenance and support you require.
+
+Compare several engines side by side.
+When choosing ecommerce recommendation engine software, there are several factors that you should consider, including:
+
+The types of recommendations the software can make: Recommendation engines use different filtering systems to make recommendations. Some use collaborative filtering (providing recommendations based on user behavior), while others use content filtering to recommend products based on their individual features.
+
+The quality and relevance of the recommendations: You can test the software using sample data to gauge the recommendations' quality or by reading customer reviews.
+
+The analytics: Analytics dashboards should provide insights into key metrics such as average order value, upsell/cross-sell conversion rate, plus insight into user behavior. Some platforms generate actionable insights from data and enable users to run A/B tests.
+
+Compatibility with your ecommerce platform: A recommendation system must integrate seamlessly with your ecommerce platform. Ask about API integrations and what level of customization is offered.
+
+The cost and value for money: Compare the costs and features of different software options plus after-sales care such as technical support and software upgrades.
+
+Test their customer support.
+Choose software that comes with reliable customer support and technical assistance in case you encounter issues when using the software. Another factor to consider is implementation.
+
+Does the company offer support with the following procedures:
+
+Data migration: In order to use the software, you will have to import all of your product data (including product descriptions, photos, pricing and other information) into the software database. Formatting and cleaning the data for this purpose
+
+Onboarding: You will need to add users to the software, including an admin. This allows you to do things like extract your recommendation engine data, adjust product recommendations and add new product listings. During this process, you’ll need to add users, configure user permissions and train them to use the platform.
+
+Implementation: Once you go live with your new software, you may encounter issues. Ask if the vendor offers support with this process and what type of after-sales care is available.
+
+Best Ecommerce Recommendation Engines
+The best ecommerce recommendation software offers customizability, API integrations and a robust analytics platform that lets users monitor the efficacy of their recommender system. Here are a few recommendation engines we recommend:
+
+Algolia.
+Algolia is an ecommerce search and discovery platform that provides a range of tools and services, including a recommendation engine. The platform offers a transparent, a fully customizable ranking algorithm, extensive developer tools and a drag-and-drop interface.
+
+Algolia's recommendation engine can be integrated into an ecommerce website or appand can be customized to meet the specific needs of the business. The platform also provides other tools and services, such as search and navigation, to help businesses improve customer satisfaction on their ecommerce platforms.
+
+Bloomreach.
+Bloomreach recommendations pull your product and visitor data and incorporate search intent and search intelligence to offer the ideal products for each customer. The platform offers ready-to-go algorithms for products that are frequently bought together, viewed together, similar, bestsellers, and trending, which makes it easy to start recommending products to first-time site visitors.
+
+Bloomreach’s recommendation system also extends to automated email campaigns based on a user’s site behavior.
+
+Clerk.
+Clerk is an out-of-the-box solution that makes it easy to create a recommendation strategy based on prebuilt discovery algorithms, such as ‘customer order history’ or ‘best sellers in category.’ The software automatically updates recommendations based on new trends and seasons to display the most relevant products. The tool also lets you display recommendations across your site, from the homepage, product pages, exit intent (popovers) and checkout.
+
+Emarsys.
+Predict is a recommendation engine by Emarsys which analyzes the behavior data collected from your online store using a JavaScript API and uses this to deliver personalized recommendations to customers across email, mobile and web.
+
+Predict also identifies and recognizes the customer across marketing channels to provide a 360-degree view of the customer and take personalization to the next level.
+
+Nosto.
+Nosto’s intelligent data layer combines behavioral, transactional, and imported data with visualAI to provide a holistic pool for accurate and relevant recommendations. Powerful merchandising rules and seamless integration with Nosto’s Segmentation product enable you to fine-tune strategies for different customer groups and products.
+
+Plans for Every Stage of Growth
+Explore BigCommerce plans and pricing.
+
+LEARN MORE
+
+The Final Word
+Ecommerce recommendation engines improve the customer experience by reducing friction, improving customer loyalty and providing a more personalized shopping experience.
+
+On the flipside, retailers benefit from increased sales and revenue, seeing as recommendation engines are a key conversion tool. Customers are also more likely to perceive the business in a favorable light and feel more comfortable sharing their data if it means receiving personalized offers in return.
